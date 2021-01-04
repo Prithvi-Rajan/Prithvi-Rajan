@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvi-rajan&label=Profile%20views&color=0e75b6&style=flat" alt="prithvi-rajan" /> </p>
 
+<h3 align="left">About me:</h3>
+
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
 - 👨‍💻 All of my projects are available at [prithvi.theredpurple.co](prithvi.theredpurple.co)
@@ -15,8 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prithvi-rajan-manisekaran-a90470190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi-rajan-manisekaran-a90470190" height="30" width="40" /></a>
 <a href="https://instagram.com/24_k_magik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="24_k_magik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prithvi_rajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prithvi_rajan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@karthikprithvi811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@karthikprithvi811" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
