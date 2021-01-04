@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 👨‍💻 All of my projects are available at [prithvi.theredpurple.co](prithvi.theredpurple.co)
+- 👨‍💻 All of my projects are available at [prithvi.theredpurple.co](http://prithvi.theredpurple.co)
 
 - 💬 Ask me about **Flutter, Basics of Python**
 
