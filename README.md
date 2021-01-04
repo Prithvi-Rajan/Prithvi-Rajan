@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **My music taste is on the opposite end of the spectrum when compared to my personality!**
 
+- 🎧 Check out my tunes at [SoundCloud](https://soundcloud.com/prithvi-365482425)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prithvi-rajan-manisekaran-a90470190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi-rajan-manisekaran-a90470190" height="30" width="40" /></a>
