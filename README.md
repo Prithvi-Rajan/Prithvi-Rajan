@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prithvi-rajan-manisekaran-a90470190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi-rajan-manisekaran-a90470190" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prithvi-rajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prithvi-rajan" height="30" width="40" /></a>
 <a href="https://instagram.com/24_k_magik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="24_k_magik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prithvi_rajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prithvi_rajan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@karthikprithvi811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@karthikprithvi811" height="30" width="40" /></a>
