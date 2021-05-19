@@ -5,11 +5,11 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Data Science, Big Data**
 
 - 👨‍💻 All of my projects are available at [prithvi.theredpurple.co](http://prithvi.theredpurple.co)
 
-- 💬 Ask me about **Flutter, Basics of Python**
+- 💬 Ask me about **Flutter, Python, Machine Learning**
 
 - 📫 How to reach me **prithvimanisekaran@gmail.com**
 
