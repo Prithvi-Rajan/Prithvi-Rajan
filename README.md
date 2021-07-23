@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, Big Data**
 
-- 👨‍💻 All of my projects are available at [prithvi.theredpurple.co](http://prithvi.theredpurple.co)
+- 👨‍💻 Personal Website at [flowcv.me/prithvi-rajan](https://flowcv.me/prithvi-rajan)
 
 - 💬 Ask me about **Flutter, Python, Machine Learning**
 
